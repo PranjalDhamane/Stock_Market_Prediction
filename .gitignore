@@ -1,0 +1,6 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore other common files/folders
+__pycache__/
+*.pyc
