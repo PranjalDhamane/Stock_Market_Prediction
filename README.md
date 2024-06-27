@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - The contributors to `pandas` and `scikit-learn` for their powerful tools.
 
 ## Contact
-For any questions or feedback, please reach out to [Your Name] at [your-email@example.com].
+For any questions or feedback, please reach out to me at pranjaldhamane37@gmail.com.
 
 ---
 
